@@ -1,0 +1,4 @@
+
+This is one place where I found it to be very clear and concise.
+It is simple RegEx of all text data from html
+https://algs4.cs.princeton.edu/42digraph/WebCrawler.java.html
